@@ -1,3 +1,2 @@
-Hi I'm endus and I am working on my computer engineering undergrad.
-I have minor knowledge in Java and Matlab but I am working on becoming proficient at both languages.
-If you have any questions about what I do or what I know feel free to message me!
+Hi my name is Markus!
+I am a dedicated computer engineering student with a strong interest in advancing the capabilities of virtual and augmented reality systems, particularly through haptic feedback and brain-computer interfaces. Currently, I am focused on mastering the core principles and scientific foundations of engineering to achieve these goals.
