@@ -1,2 +1,2 @@
-Hi my name is Markus!
-I am a dedicated computer engineering student with a strong interest in advancing the capabilities of virtual and augmented reality systems, particularly through haptic feedback and brain-computer interfaces. Currently, I am focused on mastering the core principles and scientific foundations of engineering to achieve these goals.
+Hi, my name is Markus!
+I'm a computer engineering student with a growing interest in embedded systems. I enjoy learning how hardware and software work together to create efficient, real-world systems. Right now, I'm focused on building a strong foundation in engineering and math to better understand how to design and optimize these systems.
