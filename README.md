@@ -25,4 +25,4 @@ Collaboration, problem-solving, and bringing technical solutions to real-world c
 
 
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=endus09&show_icons=true&theme=radical)
+![endus09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endus09&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
