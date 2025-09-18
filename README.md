@@ -23,6 +23,3 @@ I’m a Computer Engineering student at Salt Lake Community College, planning to
 🤝 What I value:
 Collaboration, problem-solving, and bringing technical solutions to real-world challenges — whether in software, embedded systems, or data-driven engineering.
 
-
-
-![endus09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endus09&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
