@@ -1,5 +1,1 @@
-Computer Engineering Student | University of Utah Transfer Former Fab Equipment Technician Intern at Micron Technology.
-
-I am focused on the intersection of software and applied mathematics. My primary interests include algorithmic modeling, signal analysis, and system-level programming.
-
-Toolkit: C, MATLAB, Python, Linux, and Embedded Systems.
+CompE student at the U of U. Mostly C, embedded stuff, random python scripts, and Verilog when I can get away with it.
